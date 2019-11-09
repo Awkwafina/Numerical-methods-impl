@@ -1,1 +1,1 @@
-# Oh-Jesus
+# Numerical methods implementation
